@@ -1,0 +1,7 @@
+C:\Users\soblab\source\repos\Lab-Events\Lab-Events\bin\Debug\Lab-Events.exe.config
+C:\Users\soblab\source\repos\Lab-Events\Lab-Events\bin\Debug\Lab-Events.exe
+C:\Users\soblab\source\repos\Lab-Events\Lab-Events\bin\Debug\Lab-Events.pdb
+C:\Users\soblab\source\repos\Lab-Events\Lab-Events\obj\Debug\Lab-Events.csprojAssemblyReference.cache
+C:\Users\soblab\source\repos\Lab-Events\Lab-Events\obj\Debug\Lab-Events.csproj.CoreCompileInputs.cache
+C:\Users\soblab\source\repos\Lab-Events\Lab-Events\obj\Debug\Lab-Events.exe
+C:\Users\soblab\source\repos\Lab-Events\Lab-Events\obj\Debug\Lab-Events.pdb
